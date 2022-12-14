@@ -1,0 +1,1 @@
+this sql rescouses based on https://www.mikedane.com/databases/sql/
